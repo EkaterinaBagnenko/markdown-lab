@@ -3,7 +3,7 @@
 Вёрстку выполнил: 10-3, Паус Максим
 
 # Как можно отключить интернет по всей планете и что после этого случится?
-###### [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>](https://habr.com/ru/company/zyxel/blog/), [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>](https://habr.com/ru/company/zyxel/blog/).
+###### [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>][https://habr.com/ru/company/zyxel/blog/] [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>][ttps://habr.com/ru/company/zyxel/blog/]
 
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/b49/ad0/a57/b49ad0a5742267365cc5337a5dd45e52.jpg)
