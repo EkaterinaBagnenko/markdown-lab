@@ -1,3 +1,6 @@
+[Как можно отключить интернет по всей планете и что после этого случится?](https://habr.com/ru/company/zyxel/blog/646311/)
+![](https://md.buran.rest/assets/images/habr-3-fb3774834e7ef130c745b9143278c1a9.jpg)
+Вёрстку выполнил: 10-3, Паус Максим
 
 # Как можно отключить интернет по всей планете и что после этого случится?
 ###### [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>](https://habr.com/ru/company/zyxel/blog/) 
