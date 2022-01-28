@@ -3,7 +3,7 @@
 Вёрстку выполнил: 10-3, Паус Максим
 
 # Как можно отключить интернет по всей планете и что после этого случится?
-###### [<p><span style="color:grey">Блог компании ZYXEL в России</span></p>](https://habr.com/ru/company/zyxel/blog/)
+###### [<span style="color:grey">Блог компании ZYXEL в России, </span>](https://habr.com/ru/company/zyxel/blog/) [<span style="color:grey">IT-инфраструктура, </span>](https://habr.com/ru/hub/it-infrastructure/) [<span style="color:grey">Сетевые технологии, </span>](https://habr.com/ru/hub/network_technologies/) [<span style="color:grey">Научно-популярное, </span>](https://habr.com/ru/hub/popular_science/)
 
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/b49/ad0/a57/b49ad0a5742267365cc5337a5dd45e52.jpg)
@@ -55,4 +55,7 @@
 Конечно, остаются еще вопросы финансовых потоков, работы транспорта и т.п. Но оценки однозначны - относительно непродолжительное отключение сети для человечества не смертельно. Другое дело, если интернета не будет неделю, месяц или даже дольше. В этом случае последствия будут катастрофическими, поскольку исчезнет возможность удаленного общения, работа финансовых структур будет нарушена, многие компании будут практически парализованы, миллиарды людей, работающие исключительно в онлайне и ничего более не умеющие, пополнят армии мародеров... Но, думается, что отключение сети на такой длительный срок может быть вызвано гораздо более серьезными причинами, чем обрыв кабеля.
 И если эти причины появятся, то отсутствие интернета покажется не такой уж и важной проблемой.
 
+**Теги:** [апокалипсис, ](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bапокалипсис%5D) [сетевая инфраструктура, ](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bсетевая%20инфраструктура%5D) [глобальный интернет](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5Bглобальный%20интернет%5D)
+  
+**Хабы:** [Блог компании ZYXEL в России, ](https://habr.com/ru/company/zyxel/blog/) [IT-инфраструктура, ](https://habr.com/ru/hub/it-infrastructure/) [Сетевые технологии, ](https://habr.com/ru/hub/network_technologies/) [Научно-популярное, ](https://habr.com/ru/hub/popular_science/)
     
